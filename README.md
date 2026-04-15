@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AGRITECH - Revolutionary Farming Platform
 
 AGRITECH is a comprehensive MERN stack platform designed to empower farmers and stakeholders in the agricultural ecosystem through machine learning insights and seamless communication.
@@ -75,3 +76,6 @@ This starts both:
 3. **Database (MongoDB Atlas)**: Set `MONGO_URI` to target the deployed cluster instead of localhost.
 
 *Designed specifically for standard MERN platform production structures complying with standard practices.*
+=======
+# farmix-main
+>>>>>>> 690a2a6faa3798447dfba5094dc0e8c92763acf2
